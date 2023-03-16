@@ -7,3 +7,4 @@ Face detection using Haar cascades is a machine learning based approach where a 
 ## Sceenshot 
 <img src="https://github.com/asadbek002/detect_face_cam.py/blob/master/detect_face_image_result.png" width="500" height="300">
 
+<img src="https://github.com/asadbek002/detect_face_cam.py/blob/master/detect_face_cam_%20video_result.mp4">
